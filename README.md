@@ -17,26 +17,27 @@
 
 打开任意浏览器输入这个网址：`<你的IPv4D地址>:5000`,出现以下欢迎界面：
 
-![](/run/user/1000/doc/d3ac942e/welcome.png)
+![](https://github.com/hljmssjg/ImageServer/blob/main/readme_imgs/welcome.png)
 
 ### 上传图片
 
 点击欢迎界面中的upload按钮，跳转到上传界面：
 
-![](/run/user/1000/doc/d06fa8f6/upload1.png)
+![](https://github.com/hljmssjg/ImageServer/blob/main/readme_imgs/upload1.png)
 
 点击选择文件按钮选择要上传的图片再点击upload按钮，完成上传图片操作：
 
-![](/run/user/1000/doc/54cede27/upload2.png)
+![](https://github.com/hljmssjg/ImageServer/blob/main/readme_imgs/upload2.png)
 
 此时对应的本地主机里的upload文件夹中应该有了之前通过网页界面上传的照片(例如我上传了一张猫的照片):
 
-![](/run/user/1000/doc/e4d06cd/upload3.png)
+![](https://github.com/hljmssjg/ImageServer/blob/main/readme_imgs/upload3.png)
 
 ### 下载图片
 
 假设现在有一些图片经过处理，放置在了该项目中的download文件夹中，可以通过网页中的download页面来进行下载。比如，现在我的download文件夹中存在一张狗的图片，我在欢迎界面点击download按钮：
 
-![](/run/user/1000/doc/1fff0e6b/download.png)
+![](https://github.com/hljmssjg/ImageServer/blob/main/readme_imgs/download.png)
 
 点击对应的图片，即可完成下载操作。
+
