@@ -15,7 +15,7 @@
 
 ### 欢迎界面
 
-打开任意浏览器输入这个网址：`<你的IPv4D地址>:5000`,出现以下欢迎界面：
+打开任意浏览器输入这个网址：`<你的IPv4地址>:5000`,出现以下欢迎界面：
 
 ![](https://github.com/hljmssjg/ImageServer/blob/main/readme_imgs/welcome.png)
 
